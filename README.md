@@ -1,4 +1,3 @@
-# catch-the-cat-game
 ## Catch the Cat Game
 iOS app created using:
 Swift (UIKit) , 
